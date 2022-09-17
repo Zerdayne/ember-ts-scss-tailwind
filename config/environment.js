@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'ember-surreal',
+    modulePrefix: 'ember-ts-scss-tailwind',
     environment,
     rootURL: '/',
     locationType: 'history',

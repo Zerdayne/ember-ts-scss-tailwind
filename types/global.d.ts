@@ -1,5 +1,5 @@
 // Types for compiled templates
-declare module 'ember-surreal/templates/*' {
+declare module 'ember-ts-scss-tailwind/templates/*' {
   import { TemplateFactory } from 'ember-cli-htmlbars';
 
   const tmpl: TemplateFactory;

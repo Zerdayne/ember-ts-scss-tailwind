@@ -1,5 +1,5 @@
-import Application from 'ember-surreal/app';
-import config from 'ember-surreal/config/environment';
+import Application from 'ember-ts-scss-tailwind/app';
+import config from 'ember-ts-scss-tailwind/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';

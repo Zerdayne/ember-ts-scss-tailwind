@@ -7,10 +7,10 @@
     // work with TypeScript.
     "baseUrl": ".",
     "paths": {
-      "ember-surreal/tests/*": [
+      "ember-ts-scss-tailwind/tests/*": [
         "tests/*"
       ],
-      "ember-surreal/*": [
+      "ember-ts-scss-tailwind/*": [
         "app/*"
       ],
       "*": [
