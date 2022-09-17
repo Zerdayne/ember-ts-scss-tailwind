@@ -1,4 +1,6 @@
-# ember-surreal
+# ember-ts-scss-tailwind
+
+A template to start developing with emberjs. Typescript, Tailwind and SCSS is already part of the boilerplate.
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
