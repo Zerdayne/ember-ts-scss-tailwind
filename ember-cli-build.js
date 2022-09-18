@@ -1,7 +1,6 @@
 'use strict';
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
-const tailwind = require('tailwindcss');
 
 module.exports = function (defaults) {
   let app = new EmberApp(defaults, {
@@ -12,7 +11,7 @@ module.exports = function (defaults) {
         plugins: [
           require('@csstools/postcss-sass'),
           {
-            module: tailwind,
+            module: require('tailwindcss'),
             options: {
               config: './app/styles/tailwind.config.ts',
             },
